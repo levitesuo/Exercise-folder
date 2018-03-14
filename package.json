@@ -1,0 +1,26 @@
+{
+  "name": "Exercise-folder",
+  "version": "0.0.1",
+  "description": "Sum practise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levitesuo/Exercise-folder"
+  },
+  "keywords": [
+    "Button",
+    "Shiet"
+  ],
+  "author": "Squadron-3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/levitesuo/Exercise-folder/issues"
+  },
+  "homepage": "https://github.com/levitesuo/Exercise-folder#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
